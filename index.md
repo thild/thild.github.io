@@ -6,4 +6,4 @@ sidebar         :
     title       : "About me"
 ---
 
-# Welcome!
+
