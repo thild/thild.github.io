@@ -1,6 +1,7 @@
 ---
-layout  : splash
-title   : Tony's personal page
+layout          : default
+title           : "Tony's personal page"
+author_profile  : true
 ---
 
 # Welcome!
