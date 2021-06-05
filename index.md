@@ -1,6 +1,6 @@
 ---
 layout          : single
-title           : "Tony's personal page"
+title           : "Welcome!"
 author_profile  : true
 sidebar         :
     title       : "About me"
